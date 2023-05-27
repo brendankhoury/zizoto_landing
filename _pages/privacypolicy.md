@@ -3,53 +3,62 @@ layout: page
 title: Privacy Policy
 include_in_header: false
 ---
-
 # Zizoto Privacy Policy
 
-Last updated: May 3, 2023
+**Last updated: May 27, 2023**
 
-At Zizoto, we value the privacy of our users and are committed to protecting it. This Privacy Policy outlines our practices for collecting, storing, and using the personal information you provide to us. By using our services, you agree to the terms of this Privacy Policy.
+## 1. Introduction
 
-## 1. Information We Collect
+Zizoto ("we", "us", or "our") respects your privacy and is committed to protecting it. This Privacy Policy outlines our practices for collecting, using, maintaining, protecting, and disclosing your information through our mobile application (collectively, "Service"). Please read this Privacy Policy carefully to understand our policies and practices regarding your information.
 
-When you sign up for or use Zizoto, we may collect the following personal information:
+## 2. Information We Collect
 
--   Email address
+We collect and use the following types of information:
 
-We use this information to provide our services to you and to communicate with you.
+- **Email**: We collect your email address for authentication purposes.
+- **Shipping address**: This information is collected at checkout if you are ordering a poster.
+- **Name**: This information is collected at checkout if you are ordering a poster.
+- **Text prompts**: We collect the text prompts you use to generate images on our Service.
+- **User interactions**: Information about users you follow and comments you write on our Service is also collected.
 
-## 2. How We Use Your Information
+## 3. Use of Information
 
-We use the information we collect from you for the following purposes:
+We use your personal data for various purposes such as:
 
--   To provide our services, including managing your account and delivering personalized content
--   To communicate with you about updates, promotions, or customer support
--   To maintain the security and integrity of our services
--   To comply with legal obligations or respond to legal requests
+- To provide and maintain our Service
+- To notify you about changes to our Service
+- To allow you to participate in interactive features of our Service
+- To provide customer support
+- To gather analysis or valuable information so that we can improve our Service
 
-## 3. How We Share Your Information
+## 4. Disclosure of Information
 
-We do not sell or rent your personal information to third parties. We may share your information with third-party service providers, such as Supabase, to help us store, manage, and process your information. These service providers are contractually required to protect your information and use it only for the specific purposes outlined in this Privacy Policy.
+We may disclose your personal information to the following third parties:
 
-## 4. Data Storage and Security
+- **Supabase**: This is where your data is stored and processed.
+- **Stripe**: We use Stripe to collect payments.
+- **Prodigi**: Prodigi produces and ships posters. Your shipping information, including address, name, and email, are shared with Prodigi when you order a poster.
 
-Your personal information is stored in secure databases through our third-party service provider, Supabase. We take appropriate measures to protect your information from unauthorized access, disclosure, or destruction.
+We disclose your personal data to these third parties in line with our legitimate business requirements and legal obligations.
 
-## 5. Data Retention
+## 5. Data Security
 
-We retain your personal information for as long as necessary to provide our services or as required by law. If you wish to delete your account, please contact us at support_at_zizoto_dot_com, and we will remove your personal information from our databases.
+We take data security seriously and have implemented appropriate measures to secure your personal data from accidental loss and unauthorized access, use, alteration, and disclosure.
 
-## 6. Your Rights and Choices
+However, the safety and security of your information also depends on you. We urge you to protect your user information and protect yourself against unauthorized access to your password and your device.
 
-You have the right to access, update, or delete your personal information at any time. To exercise these rights, please contact us at support_at_zizoto_dot_com.
+## 6. Data Retention
 
-## 7. Changes to This Privacy Policy
+We will retain your personal data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your personal data to the extent necessary to comply with our legal obligations.
 
-We may update this Privacy Policy from time to time. If we make significant changes, we will notify you through email or by posting a notice on our website. Your continued use of our services after the changes have been made signifies your acceptance of the updated Privacy Policy.
+## 7. Changes to our Privacy Policy
 
-## 8. Contact Us
+We reserve the right to update or change our Privacy Policy at any time. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
 
-If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
+## 8. Contact Information
 
-Zizoto Inc.
-Email: support_at_zizoto_dot_com
+If you have any questions about this Privacy Policy, please contact us at: contact_at_zizoto_dot_com
+
+By using Zizoto, you agree to the terms and conditions set forth in this Privacy Policy, including the collection and processing of your personal data. If you do not agree with these terms, please do not use the Service.
+
+---
