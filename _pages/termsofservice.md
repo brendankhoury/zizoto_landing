@@ -3,62 +3,47 @@ layout: page
 title: Terms of Service
 include_in_header: false
 ---
-# Zizoto Privacy Policy
+# Zizoto Terms of Service
 
-**Last updated: May 27, 2023**
+**Last updated: Jun 6, 2023**
 
 ## 1. Introduction
 
-Zizoto ("we", "us", or "our") respects your privacy and is committed to protecting it. This Privacy Policy outlines our practices for collecting, using, maintaining, protecting, and disclosing your information through our mobile application (collectively, "Service"). Please read this Privacy Policy carefully to understand our policies and practices regarding your information.
+Welcome to Zizoto! These Terms of Service govern your use of Zizoto and provide information about the Zizoto Service.
 
-## 2. Information We Collect
+## 2. Acceptance of Terms
 
-We collect and use the following types of information:
+By accessing and/or using Zizoto, you are agreeing to these Terms. If you do not agree to these Terms, do not access and/or use Zizoto.
 
-- **Email**: We collect your email address for authentication purposes.
-- **Shipping address**: This information is collected at checkout if you are ordering a poster.
-- **Name**: This information is collected at checkout if you are ordering a poster.
-- **Text prompts**: We collect the text prompts you use to generate images on our Service.
-- **User interactions**: Information about users you follow and comments you write on our Service is also collected.
+## 3. Changes to Terms
 
-## 3. Use of Information
+Zizoto reserves the right to modify the Terms at any time. We will make an effort to communicate any changes to you, but it is ultimately your responsibility to review these Terms periodically. By continuing to use Zizoto, you accept any changes to these Terms.
 
-We use your personal data for various purposes such as:
+## 4. Privacy
 
-- To provide and maintain our Service
-- To notify you about changes to our Service
-- To allow you to participate in interactive features of our Service
-- To provide customer support
-- To gather analysis or valuable information so that we can improve our Service
+Please refer to our Privacy Policy for information about how we collect, use, and disclose information about you.
 
-## 4. Disclosure of Information
+## 5. Use of The Service
 
-We may disclose your personal information to the following third parties:
+You may not access or use the Service or create an account for unlawful purposes. Your use of the Service and behavior on the Service must comply with applicable local or national laws or regulations of your country.
 
-- **Supabase**: This is where your data is stored and processed.
-- **Stripe**: We use Stripe to collect payments.
-- **Prodigi**: Prodigi produces and ships posters. Your shipping information, including address, name, and email, are shared with Prodigi when you order a poster.
+## 6. Account Suspension
 
-We disclose your personal data to these third parties in line with our legitimate business requirements and legal obligations.
+Zizoto reserves the right to suspend or terminate your account at its discretion.
 
-## 5. Data Security
+## 7. Content and Rights
 
-We take data security seriously and have implemented appropriate measures to secure your personal data from accidental loss and unauthorized access, use, alteration, and disclosure.
+By using Zizoto, you understand and agree that any images you generate using the Zizoto platform may be used by Zizoto for any purpose, including but not limited to selling posters, promotional materials, and other marketing or business purposes. While Zizoto reserves these rights, we also encourage and allow our users to freely use the images they create on Zizoto as they please, subject to these Terms of Service and any applicable laws or regulations.
 
-However, the safety and security of your information also depends on you. We urge you to protect your user information and protect yourself against unauthorized access to your password and your device.
+## 8. Limitation of Liability
 
-## 6. Data Retention
+Zizoto will not be liable for any damages or losses arising from your use or inability to use the Service or otherwise arising under this agreement.
 
-We will retain your personal data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your personal data to the extent necessary to comply with our legal obligations.
+## 9. Dispute Resolution
 
-## 7. Changes to our Privacy Policy
+We want to address your concerns without needing a formal legal case. Before filing a claim against Zizoto, you agree to try to resolve the dispute informally.
 
-We reserve the right to update or change our Privacy Policy at any time. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+## 10. Governing Law and Jurisdiction
 
-## 8. Contact Information
+These Terms are governed by the laws of the United States of America, without regard to conflict of law principles.
 
-If you have any questions about this Privacy Policy, please contact us at: contact_at_zizoto_dot_com
-
-By using Zizoto, you agree to the terms and conditions set forth in this Privacy Policy, including the collection and processing of your personal data. If you do not agree with these terms, please do not use the Service.
-
----
