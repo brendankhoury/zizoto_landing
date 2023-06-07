@@ -43,7 +43,7 @@ features:
     - title: "Unique Social Experience"
       description: "Join a community of creators, artists, and innovators. Share your creations, get feedback, and find inspiration from others on the Zizoto network."
       fontawesome_icon_name: "users"
-    - title: "Stable Diffusion Technology"
+    - title: "Powered by Stable Diffusion"
       description: "Dive into the frontier of AI image generation. Zizoto leverages the phenomenal power of Stable Diffusion's SDXL model for extraordinary image creation capabilities."
       fontawesome_icon_name: "microchip"
 
