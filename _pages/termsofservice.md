@@ -95,3 +95,11 @@ Your use of Zizoto is strictly limited to the access and functionality provided 
 Any use of Zizoto APIs outside of the Zizoto app, without explicit written consent from Zizoto, is considered a violation of these Terms of Service. Such violations may result in immediate suspension or termination of your account, at the sole discretion of Zizoto. We reserve the right to pursue legal action in response to unauthorized use of our APIs, and you may be held liable for damages as prescribed in U.S. law. 
 
 Please note that this restriction is put in place to protect the integrity of Zizoto and its users, and to ensure the best and safest user experience for everyone. We appreciate your understanding and adherence to this policy.
+
+## 14. Returns and Cancellations
+
+At Zizoto, we are committed to ensuring our customers are satisfied with the products they purchase. However, due to the nature of our service, we do not accept returns.
+
+If an item arrives damaged or incorrect, please let us know. We will happily issue a refund for the item. To request a refund, please reach out to email with your order details and a description of the issue.
+
+If you need to cancel an order, please contact us at email as soon as possible, providing your order details. While we will make every effort to accommodate your cancellation request, we cannot guarantee that we will be able to cancel orders that have already been processed.
