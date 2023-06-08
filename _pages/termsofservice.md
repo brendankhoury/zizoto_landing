@@ -5,7 +5,7 @@ include_in_header: false
 ---
 # Zizoto Terms of Service
 
-**Last updated: Jun 6, 2023**
+**Last updated: Jun 7, 2023**
 
 ## 1. Introduction
 
@@ -47,3 +47,51 @@ We want to address your concerns without needing a formal legal case. Before fil
 
 These Terms are governed by the laws of the United States of America, without regard to conflict of law principles.
 
+## 11. End User License Agreement (EULA)
+
+By using Zizoto, you accept and agree to these terms:
+
+1. **Objectionable Content and Abusive Users:** There is no tolerance for objectionable content or abusive users. Users are responsible for their conduct and any data, text, files, information, usernames, images, graphics, photos, profiles, and other content or materials they submit, post, or display on Zizoto.
+
+2. **Filtering Objectionable Content:** Zizoto reserves the right to monitor all content and to remove any content which it considers in its absolute discretion to be objectionable.
+
+3. **Flagging Objectionable Content:** Users can report objectionable content by using the designated reporting mechanism within the app.
+
+4. **Blocking Abusive Users:** Users have the ability to block and report abusive users. Abusive behavior will not be tolerated, and users who act abusively will be ejected from Zizoto.
+
+5. **Acting on Reports:** Zizoto will try to act on objectionable content reports within a reasonable amount of time by removing the content and ejecting the user who provided the offending content if Zizoto deems the content in Objectionable (see section 12). 
+
+Your license to use Zizoto will terminate if you violate these restrictions. Upon termination, you could be held liable for damages as prescribed in U.S. law. Zizoto reserves the right to change these conditions at any time, and you are responsible for regularly reviewing these conditions.
+
+Your continued use of Zizoto constitutes your agreement to all such terms, conditions, and notices. 
+
+
+## 12. Definition of Objectionable Content
+
+Objectionable content is defined as any content that:
+
+1. **Promotes racism, bigotry, hatred, or physical harm of any kind against any group or individual.**
+
+2. **Harasses or advocates harassment of another person.**
+
+3. **Exploits people in a sexual or violent manner.**
+
+4. **Contains nudity, violence, or offensive subject matter or contains a link to an adult website.**
+
+5. **Solicits personal information from anyone under 18.**
+
+6. **Publicizes or promotes commercial activities and/or sales without our prior written consent such as contests, sweepstakes, barter, advertising, and pyramid schemes.**
+
+7. **Involves the transmission of "junk mail," "chain letters," or unsolicited mass mailing, instant messaging, "spimming," or "spamming".**
+
+8. **Contains any information which we deem to be misleading, false, or inaccurate at the sole discretion of Zizoto.**
+
+We reserve the right, in our sole discretion, to reject, refuse to post, or remove any posting by you, or to deny, restrict, suspend, or terminate your access to all or any part of Zizoto at any time, for any reason, with or without prior notice or explanation, and without liability.
+
+## 13. Restrictions on Use of Zizoto APIs
+
+Your use of Zizoto is strictly limited to the access and functionality provided by the Zizoto application itself. You are expressly prohibited from accessing or using any Zizoto APIs directly, including but not limited to the image generation/morphing APIs, or in any manner that bypasses the intended use and navigation of the app, such as but not limited to web scraping or any other form of unsanctioned data extraction.
+
+Any use of Zizoto APIs outside of the Zizoto app, without explicit written consent from Zizoto, is considered a violation of these Terms of Service. Such violations may result in immediate suspension or termination of your account, at the sole discretion of Zizoto. We reserve the right to pursue legal action in response to unauthorized use of our APIs, and you may be held liable for damages as prescribed in U.S. law. 
+
+Please note that this restriction is put in place to protect the integrity of Zizoto and its users, and to ensure the best and safest user experience for everyone. We appreciate your understanding and adherence to this policy.
