@@ -1,0 +1,40 @@
+<div id="gallery">
+    <img id="gallery-image" />
+    <div id="gallery-prompt-container">
+        <p id="gallery-prompt"></p>
+        <span class="cursor">|</span>
+    </div>
+</div>
+
+<script>
+    var gallery = [
+        {
+            image: "https://kuupcpxdthiemyuyedyu.supabase.co/storage/v1/object/public/test-images/00003468-df41-4dcc-a0b5-5d8c60c3aae8.png",
+            prompt: "Red dragon, illustrated, colorful, dramatic",
+        },
+        {
+            image: "https://kuupcpxdthiemyuyedyu.supabase.co/storage/v1/object/public/test-images/06c97935-4290-41e7-ab12-8d2204a9ab8e.png",
+            prompt: "sci fi",
+        },
+        {
+            image: "https://kuupcpxdthiemyuyedyu.supabase.co/storage/v1/object/public/test-images/0d9e9e0b-81ce-4e52-8235-465d0f9d468f.png",
+            prompt: "pebble in love",
+        },
+    ];
+    var index = 0;
+    var imageElement = document.getElementById("gallery-image");
+
+    function updateGallery() {
+        imageElement.src = gallery[index].image;
+        document.getElementById("gallery-prompt").textContent =
+            gallery[index].prompt;
+        console.log(
+            "Updated gallery to index " + index,
+            " url " + gallery[index].image
+        );
+        index = (index + 1) % gallery.length;
+    }
+
+    setInterval(updateGallery, 3000); // Change image and prompt every 3 seconds
+    updateGallery();
+</script>

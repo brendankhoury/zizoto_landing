@@ -100,6 +100,6 @@ Please note that this restriction is put in place to protect the integrity of Zi
 
 At Zizoto, we are committed to ensuring our customers are satisfied with the products they purchase. However, due to the nature of our service, we do not accept returns.
 
-If an item arrives damaged or incorrect, please let us know. We will happily issue a refund for the item. To request a refund, please reach out to contact_at_zizoto_dot_com with your order details, an image of the damaged item (if applicable), and a description of the issue.
+If an item arrives damaged or incorrect, please let us know. We will happily issue a refund for the item. To request a refund, please email us at contact_at_zizoto_dot_com with your order details, an image of the damaged item (if applicable), and a description of the issue.
 
-If you need to cancel an order, please contact us at contact_at_zizoto_dot_com as soon as possible, providing your order details. While we will make every effort to accommodate your cancellation request, we cannot guarantee that we will be able to cancel orders that have already been processed.
+If you need to cancel an order, please email us at contact_at_zizoto_dot_com as soon as possible, providing your order details. While we will make every effort to accommodate your cancellation request, we cannot guarantee that we will be able to cancel orders that have already been processed.

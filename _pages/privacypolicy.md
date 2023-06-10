@@ -57,7 +57,7 @@ We reserve the right to update or change our Privacy Policy at any time. Your co
 
 ## 8. Contact Information
 
-If you have any questions about this Privacy Policy, please contact us at: contact_at_zizoto_dot_com
+If you have any questions about this Privacy Policy, please email us at: contact_at_zizoto_dot_com
 
 By using Zizoto, you agree to the terms and conditions set forth in this Privacy Policy, including the collection and processing of your personal data. If you do not agree with these terms, please do not use the Service.
 

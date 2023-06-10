@@ -29,8 +29,50 @@ $feature-icons-background-color: {{ site.feature_icons_background_color }};
 
 $social-icons-foreground-color: {{ site.social_icons_foreground_color }};
 $social-icons-background-color: {{ site.social_icons_background_color }};
+$cursor-blink-duration: 1s;
+$gallery-transition-duration: 2s;
 
+// Import statements...
 @import 
     "base",
     "layout",
-    "github-markdown"
+    "github-markdown";
+
+// New rules for gallery...
+
+@keyframes blink {
+    0% { opacity: 0; }
+    50% { opacity: 1; }
+    100% { opacity: 0; }
+}
+
+.cursor {
+    animation: blink $cursor-blink-duration linear infinite;
+}
+
+#gallery {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.gallery-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity $gallery-transition-duration ease-in-out;
+    width: auto; // or specify a fixed width if needed
+    height: auto; // or specify a fixed height if needed
+}
+
+.gallery-image.active {
+    opacity: 1;
+}
+
+#gallery-prompt-container {
+    position: relative;
+    z-index: 2;
+}
